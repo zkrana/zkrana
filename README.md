@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zkrana&label=Profile%20views&color=0e75b6&style=flat" alt="zkrana" /> </p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zkrana" alt="zkrana" /></a> </p>
 
 - 🔭 I’m currently working on [Hotel Reservation Theme](https://github.com/SHUVOIT-DEV/Hotel_Html)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zkranao@gmail.com**
 
-- 📄 Know about my experiences [https://zkrana.netlify.app/](https://zkrana.netlify.app/)
+- 📄 Know about my experiences [https://lyzerslab.com/](https://lyzerslab.com/)
 
 - ⚡ Fun fact **I love village life, I want to travel each corner of my countries rural area.**
 
@@ -21,11 +21,11 @@
 <p align="left">
 <a href="https://twitter.com/zkranao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zkranao" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zkranadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zkranadev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9765060/zk-rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9765060/zk-rana" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/zkrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/zkrana" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9765060/zk-rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9765060/zk-rana" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/zkrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/zkrana" height="30" width="40" /></a>
 <a href="https://fb.com/engr.zkrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engr.zkrana" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/zkrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zkrana" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/zkrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/zkrana" height="30" width="40" /></a>
+<a href="https://www.behance.net/zkrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zkrana" height="30" width="40" /></a>
+<a href="https://www.youtube.com/zkrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/zkrana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
