@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zkrana&label=Profile%20views&color=0e75b6&style=flat" alt="zkrana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zkrana" alt="zkrana" /></a> </p>
+
 
 - 🔭 I’m currently working on [Hotel Reservation Theme](https://github.com/SHUVOIT-DEV/Hotel_Html)
 
