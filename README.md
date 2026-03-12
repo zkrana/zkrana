@@ -12,7 +12,7 @@
 
 ### 💡 Who Am I?
 
-I’m a passionate **Frontend Developer from Bangladesh 🇧🇩** who loves creating beautiful and scalable digital experiences.
+I’m a passionate **Developer from Bangladesh 🇧🇩** who loves creating beautiful and scalable digital experiences.
 
 My goal is to craft **fast, accessible, and elegant web applications** that solve real-world problems.
 
