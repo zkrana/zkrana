@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zkrana" alt="zkrana" /></a> </p>
 
-- 🔭 I’m currently working on [Hotel Reservation Theme](https://github.com/SHUVOIT-DEV/Hotel_Html)
+- 🔭 I’m currently working on [AI Based Ecommerce Solutions for EU and USA clients][(https://lyzana-ecommerce-backend.vercel.app/login))]
 
 - 🌱 I’m currently learning **NEXTJS**
 
