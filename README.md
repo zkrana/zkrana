@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zk Rana</h1>
-<h3 align="center">🚀 Passionate Frontend Developer | React & Next.js Enthusiast | Building Modern Web Experiences</h3>
+<h3 align="center">🚀 Passionate Developer | React & Next.js Enthusiast | Building Modern Web Experiences</h3>
 
 <p align="center">
 I’m a creative and passionate developer from Bangladesh 🇧🇩 who loves turning ideas into beautiful, fast, and scalable web applications.  
